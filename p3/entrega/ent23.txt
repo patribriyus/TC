@@ -1,0 +1,13 @@
+acum:=3+4
+acum
+acum- 5
+acum:= 2*2
+acum:=  2 + 4 +4
+acum
+acum * 3
+acum:= 14/7
+acum
+acum-   2
+3*4 - (4+5) * acum
+acum:= acum + acum*3
+acum
